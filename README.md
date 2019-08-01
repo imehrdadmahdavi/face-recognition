@@ -9,10 +9,12 @@ This project implemented using sklearn.
 This project implemented using **Python 3.7** and the following Python libraries:
 
 - [Jupyter Notebook (IPython) 4.10.0](https://ipython.org/)
-- [NumPy 1.16.4](http://www.numpy.org/)
+- [numPy 1.16.4](http://www.numpy.org/)
 - [Pandas 0.24.2](http://pandas.pydata.org/)
 - [matplotlib 2.2.4](http://matplotlib.org/)
 - [scikit-learn 0.17](http://scikit-learn.org/stable/)
+- [pillow 5.2.0](https://pillow.readthedocs.io/en/stable/)
+
 
 ### Code
 

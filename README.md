@@ -1,4 +1,4 @@
-## Faces recognition example using PCA's eigenfaces and SVMs
+## Faces recognition using PCA's eigenfaces and SVMs
 
 ### Description
 
